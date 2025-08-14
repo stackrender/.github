@@ -1,5 +1,5 @@
 
-# Welcom to StackRender 🚀
+
 ![App Screenshot](https://github.com/stackrender/.github/blob/main/assets/white_hero.PNG?raw=true)
 <h4 align="center">
   <a href="https://www.stackrender.io">
@@ -14,4 +14,3 @@
   </a>
 
 </h4>
-
