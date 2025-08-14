@@ -26,6 +26,7 @@ StackRender helps you go from **specifications** to a **fully functional, produc
 ### Why Follow Us 📢
 
 We’re building StackRender, a tool that turns database designs into complete, functional apps, and we share every step of the journey.
+
 Follow us for:  
 - Early previews of StackRender features  
 - Free dev tools & open-source goodies  
