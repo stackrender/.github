@@ -19,3 +19,6 @@
 StackRender was born from the need to automate backend development, covering everything from the database to the final API endpoint. Our first step toward this long-term vision is to provide a **next-generation, free, open-source database schema diagram generator**.
 
 StackRender helps you go from **specifications** to a **fully functional, production-ready database** that can be exported in your preferred SQL dialect: **MySQL, PostgreSQL, MariaDB, or SQLite**.
+
+🚀 [Cloud Version](https://stackrender.com)<br/>
+💻 [Open Source Repository](https://github.com/yourusername/stackrender)
