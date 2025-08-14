@@ -23,19 +23,22 @@ StackRender helps you go from **specifications** to a **fully functional, produc
 🚀 [Cloud Version](https://stackrender.com)<br/>
 💻 [Open Source Repository](https://github.com/yourusername/stackrender)
 
-                                                                                                                    
-                                                                                                                    
-  .--.--.       ___                               ,-.,-.----.                                                       
- /  /    '.   ,--.'|_                         ,--/ /|\    /  \                             ,---,                    
-|  :  /`. /   |  | :,'                      ,--. :/ |;   :    \                ,---,     ,---.'|            __  ,-. 
-;  |  |--`    :  : ' :                      :  : ' / |   | .\ :            ,-+-. /  |    |   | :          ,' ,'/ /| 
-|  :  ;_    .;__,'  /    ,--.--.     ,---.  |  '  /  .   : |: |    ,---.  ,--.'|'   |    |   | |   ,---.  '  | |' | 
- \  \    `. |  |   |    /       \   /     \ '  |  :  |   |  \ :   /     \|   |  ,"' |  ,--.__| |  /     \ |  |   ,' 
-  `----.   \:__,'| :   .--.  .-. | /    / ' |  |   \ |   : .  /  /    /  |   | /  | | /   ,'   | /    /  |'  :  /   
-  __ \  \  |  '  : |__  \__\/: . ..    ' /  '  : |. \;   | |  \ .    ' / |   | |  | |.   '  /  |.    ' / ||  | '    
- /  /`--'  /  |  | '.'| ," .--.; |'   ; :__ |  | ' \ \   | ;\  \'   ;   /|   | |  |/ '   ; |:  |'   ;   /|;  : |    
-'--'.     /   ;  :    ;/  /  ,.  |'   | '.'|'  : |--':   ' | \.''   |  / |   | |--'  |   | '/  ''   |  / ||  , ;    
-  `--'---'    |  ,   /;  :   .'   \   :    :;  |,'   :   : :-'  |   :    |   |/      |   :    :||   :    | ---'     
-               ---`-' |  ,     .-./\   \  / '--'     |   |.'     \   \  /'---'        \   \  /   \   \  /           
-                       `--`---'     `----'           `---'        `----'               `----'     `----'            
+### Why Follow Us 📢
+
+We’re building StackRender, a tool that turns database designs into complete, functional apps, and we share every step of the journey.
+Follow us for:  
+- Early previews of StackRender features  
+- Free dev tools & open-source goodies  
+- Practical coding tips you can use today  
+- Real-world lessons from building SaaS products  
+
+The next era of database engineering starts now.                                                                                                          
+<pre>
+   _____ _             _     _____              _           
+  / ____| |           | |   |  __ \            | |          
+ | (___ | |_ __ _  ___| | __| |__) |___ _ __ __| | ___ _ __ 
+  \___ \| __/ _` |/ __| |/ /|  _  // _ \ '__/ _` |/ _ \ '__|
+  ____) | || (_| | (__|   < | | \ \  __/ | | (_| |  __/ |   
+ |_____/ \__\__,_|\___|_|\_\|_|  \_\___|_|  \__,_|\___|_|   
+</pre>
                                                                                                                     
