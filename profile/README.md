@@ -2,11 +2,8 @@
 # Welcom to StackRender 🚀
 ![App Screenshot](https://github.com/stackrender/.github/blob/main/assets/hero.PNG?raw=true)
 <h4 align="center">
-  <a href="https://github.com/chartdb/chartdb?tab=AGPL-3.0-1-ov-file#readme">
-    <img src="https://img.shields.io/github/license/chartdb/chartdb?color=blue" alt="ChartDB is released under the AGPL license." />
-  </a>
   <a href="https://www.stackrender.io">
-    <img src="https://img.shields.io/badge/Start%20Building-0A66C2?style=for-the-badge&logo=world&logoColor=white" alt="Start Building!" />
+    <img src="https://img.shields.io/badge/Start%20Building!-gray.svg?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZENzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTMgMyBMMiAxMyBoNyBMMTEgMjEgTDIyIDExIGgtNyBMIDEzIDMgeiIvPjwvc3ZnPg==" alt="Start Building!" />
   </a>
   
   <a href="https://discord.com/invite/DsN8RcPR6Y">
