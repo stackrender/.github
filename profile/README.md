@@ -8,7 +8,7 @@
   <a href="https://github.com/chartdb/chartdb/blob/main/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs welcome!" />
   </a>
-  <a href="https://discord.gg/QeFwyWSKwC">
+  <a href="https://discord.com/invite/DsN8RcPR6Y">
     <img src="https://img.shields.io/discord/1277047413705670678?color=5865F2&label=Discord&logo=discord&logoColor=white" alt="Discord community channel" />
   </a>
   <a href="https://x.com/intent/follow?screen_name=jonathanfishner">
