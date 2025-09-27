@@ -20,7 +20,7 @@ StackRender was born from the need to automate backend development, covering eve
 StackRender helps you go from **specifications** to a **fully functional, production-ready database** that can be exported in your preferred SQL dialect: **MySQL, PostgreSQL, MariaDB, or SQLite**.
 
 🚀 [Cloud Version](https://stackrender.com)<br/>
-💻 [Open Source Repository](https://github.com/yourusername/stackrender)
+💻 [Open Source Repository](https://github.com/stackrender/stackrender)
 
 ### Why Follow Us 📢
 
