@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Start%20Building!-gray.svg?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZENzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTMgMyBMMiAxMyBoNyBMMTEgMjEgTDIyIDExIGgtNyBMIDEzIDMgeiIvPjwvc3ZnPg==" alt="Start Building!" />
   </a>
   
-  <a href="https://discord.com/invite/DsN8RcPR6Y">
+  <a href="https://discord.com/invite/4dv26jR4Pj">
     <img src="https://img.shields.io/discord/1352085267535761448?color=5865F2&label=Discord&logo=discord&logoColor=white" alt="Discord community channel" />
   </a>
   <a href="https://x.com/intent/follow?screen_name=Iam_The_Dev">
